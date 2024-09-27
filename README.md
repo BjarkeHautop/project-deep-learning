@@ -11,4 +11,8 @@ The link to the google colab is https://colab.research.google.com/drive/13d3OxR1
 
 - Modify and ...
 
+- Maybe do data augmentation (does it make sense to rotate traffic signs?)?
+
 - Set up a bayesian CNN. For example Bayes by Backprop. See for example here for code example for Bayes by Backprop: https://github.com/PacktPublishing/Enhancing-Deep-Learning-with-Bayesian-Inference/tree/main/ch05/bbb
+
+- Check robustness on data. Modify data
