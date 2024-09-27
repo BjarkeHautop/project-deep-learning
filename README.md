@@ -5,6 +5,10 @@ The link to the google colab is https://colab.research.google.com/drive/13d3OxR1
 
 ## To-do list
 
--
+- Read project proposal (make changes) https://www.overleaf.com/read/tyhkqpgddgjs#f537bc
+  
+- Set up a baseline CNN model and train for a few epochs
 
-- 
+- Modify and ...
+
+- Set up a bayesian CNN. For example Bayes by Backprop. See for example here for code example for Bayes by Backprop: https://github.com/PacktPublishing/Enhancing-Deep-Learning-with-Bayesian-Inference/tree/main/ch05/bbb
