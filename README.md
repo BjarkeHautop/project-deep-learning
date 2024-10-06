@@ -4,11 +4,7 @@
 
 German traffic sign benchmark dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data) and clicking download. Upload the zip file to your google drive (I chose path German-traffic-signs/archive.zip) (so if you change location change corresponding line in python). 
 
-## Stable and Development Versions
-- **Stable Version:** The stable version of the project is in the **main branch**.
-- **Development Version:** The latest changes and experimental features can be found in the **develop branch**. Make commits here and merge into the main branch when ready.
-
-Access the project notebook (stable version) on Google Colab [here](https://colab.research.google.com/drive/13d3OxR17lEpdMIqDzQYMeGqTh-vXQh71?usp=sharing). This link is necessary as the repository is private.
+Access the project notebook on Google Colab [here](https://colab.research.google.com/drive/13d3OxR17lEpdMIqDzQYMeGqTh-vXQh71?usp=sharing). This link is necessary as the repository is private.
 
 ## To-do list
 - Read project proposal (make changes) https://www.overleaf.com/read/tyhkqpgddgjs#f537bc
@@ -20,6 +16,6 @@ Access the project notebook (stable version) on Google Colab [here](https://cola
 - Check robustness on data. Modify data
 
 ## Contribution Guidelines
-- Make changes in the **develop branch**.
-- Open a pull request for significant improvements to be reviewed before merging into the main branch.
-- Ensure that all changes are properly documented.
+- Make changes in the **Google Colab**.
+- If making experimental changes make your own copy (i.e. deleteting stuff to rewrite it). Once it is ready merge it together with our Google Colab when ready. 
+- Add some text between your code.
