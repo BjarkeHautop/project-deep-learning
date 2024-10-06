@@ -1,7 +1,5 @@
 # Project Deep Learning: Traffic Sign Recognition
 
-**Main branch** is the stable version. Make changes in the **develop branch**. You can request a pull/merge to the main branch once significant improvements are made.
-
 German traffic sign benchmark dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data) and clicking download. Upload the zip file to your google drive (I chose path German-traffic-signs/archive.zip) (so if you change location change corresponding line in python). 
 
 Access the project notebook on Google Colab [here](https://colab.research.google.com/drive/13d3OxR17lEpdMIqDzQYMeGqTh-vXQh71?usp=sharing). This link is necessary as the repository is private.
