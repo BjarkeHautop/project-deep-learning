@@ -9,6 +9,9 @@ Access the project notebook on Google Colab [here](https://colab.research.google
 - Set up a bayesian CNN. For example Bayes by Backprop. See for example here for code example for Bayes by Backprop: https://github.com/PacktPublishing/Enhancing-Deep-Learning-with-Bayesian-Inference/tree/main/ch05/bbb
 - Check robustness on data. Modify data (adverserial attack, out of distribtuion (OOD), ...)
 
+## Considerations 
+- Save trained models and load them. Training takes a long time already (and Bayesian CNN would take even longer). 
+
 ## Contribution Guidelines
 - Make changes in the **Google Colab**.
 - If making experimental changes make your own copy (i.e. deleteting stuff to rewrite it). Once it is ready merge it together with our Google Colab when ready. 
