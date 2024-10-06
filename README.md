@@ -15,7 +15,7 @@ Our project report is on Overleaf. It can be viewed and edited [here](https://ww
 ## Considerations 
 - Save trained models and load them. Training takes a long time already (and Bayesian CNN would take even longer). 
 
-## Contribution Guidelines
-- Make changes in the **Google Colab**.
+## Contribution Guidelines for Google Colab
+- Make changes in the **Google Colab**. Once in a while download it as ipynb file and upload it here.
 - If making experimental changes make your own copy (i.e. deleteting stuff to rewrite it). Once it is ready merge it together with our Google Colab when ready. 
 - Add some text between your code.
