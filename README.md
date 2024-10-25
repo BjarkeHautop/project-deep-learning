@@ -3,6 +3,7 @@
 German traffic sign benchmark dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data) and clicking download. Upload the zip file to your google drive (I chose path German-traffic-signs/archive.zip) (so if you change location change corresponding line in python). 
 
 Access the project notebook on Google Colab [here](https://colab.research.google.com/drive/13sinqL_gKc4Pjr3Vthyoy9Oz-zUtiEKY?usp=sharing). This link is necessary as the repository is private.
+The steps to build our CNN can be found in  this notebook: [here](https://colab.research.google.com/drive/1mkO0da_xT6EvOzx3tu7WttY9SrB04cR4?usp=sharing) 
 
 Our project report is on Overleaf. It can be viewed and edited [here](https://www.overleaf.com/7537817147pnfzkmddskrb#ffc558).
 
