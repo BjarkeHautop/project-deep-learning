@@ -10,6 +10,7 @@ Our project report is on Overleaf. It can be viewed and edited [here](https://ww
 
 ## To-do list
 - Maybe do data augmentation (Note: don't flip it! Signs can change meaning - small rotations are probably fine).
+- Try learning rate decay on final model
 - Set up a bayesian CNN. For example Bayes by Backprop. See for example here for code example for Bayes by Backprop: https://github.com/PacktPublishing/Enhancing-Deep-Learning-with-Bayesian-Inference/tree/main/ch05/bbb
 - Check robustness on data. Modify data (adverserial attack, out of distribtuion (OOD), ...)
 - Write project report. 
