@@ -2,7 +2,7 @@
 
 German traffic sign benchmark dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data) and clicking download. Upload the zip file to your google drive (I chose path German-traffic-signs/archive.zip) (so if you change location change corresponding line in python). 
 
-Access the project notebook on Google Colab [here](https://colab.research.google.com/drive/13sinqL_gKc4Pjr3Vthyoy9Oz-zUtiEKY?usp=sharing). This link is necessary as the repository is private.
+Access the project notebook on Google Colab [here](https://colab.research.google.com/drive/13sinqL_gKc4Pjr3Vthyoy9Oz-zUtiEKY?usp=sharing). This link is necessary as the repository is private. The images we used for out-of-dist images can be found [here](https://github.com/BjarkeHautop/project-deep-learning/tree/main/out-of-dist-images).
 
 The steps to build our CNN can be found in  this notebook: [here](https://colab.research.google.com/drive/1mkO0da_xT6EvOzx3tu7WttY9SrB04cR4?usp=sharing) 
 
