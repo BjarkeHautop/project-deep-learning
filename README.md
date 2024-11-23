@@ -1,6 +1,6 @@
 # Project Deep Learning: Quantifying Uncertainty in Traffic Sign Recognition
 
-This project was made in collaboration with [Christina Grand](https://github.com/Christinagrand) and [Laura Fur](https://github.com/lauramhfur) in our course Deep Learning for Visual Recognition. Our project can be read here (insert link ...). 
+This project was made in collaboration with [Christina Grand](https://github.com/Christinagrand) and [Laura Fur](https://github.com/lauramhfur) in our course Deep Learning for Visual Recognition. Our project can be read here (insert link ...). (Insert summary of the project?)
 
 To run the notebook download the dataset German traffic sign benchmark dataset from [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data). Upload the zip file to your google drive. I chose path German-traffic-signs/archive.zip, so if you change location change corresponding line in python. 
 
