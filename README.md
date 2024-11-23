@@ -1,4 +1,4 @@
-# Project Deep Learning: Traffic Sign Recognition
+# Project Deep Learning: Quantifying Uncertainty in Traffic Sign Recognition
 
 This project was made in collaboration with [Christina Grand](https://github.com/Christinagrand) and [Laura Fur](https://github.com/lauramhfur) in our course Deep Learning for Visual Recognition. Our project can be read here (insert link ...). 
 
