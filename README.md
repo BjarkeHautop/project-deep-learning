@@ -1,6 +1,6 @@
 # Project Deep Learning: Quantifying Uncertainty in Traffic Sign Recognition
 
-This project was made in collaboration with [Christina Grand](https://github.com/Christinagrand) and [Laura Fur](https://github.com/lauramhfur) in our course Deep Learning for Visual Recognition. Our project can be read [here](https://github.com/BjarkeHautop/project-deep-learning/blob/main/Project_deep_learning.pdf). In this project, we explored different ways to quantify uncertainty for deep learning models such as MC dropout and Bayesian Neural Networks. 
+This project was made in collaboration with [Christina Grand](https://github.com/Christinagrand) and [Laura Fur](https://github.com/lauramhfur) in our course Deep Learning for Visual Recognition. Our project can be read [here](https://github.com/BjarkeHautop/project-deep-learning/blob/main/Project_DL.pdf). In this project, we explored different ways to quantify uncertainty for deep learning models such as MC dropout and Bayesian Neural Networks. 
 
 # Code
 Our main .ipynb file where the code for the project is done is at [Project_DL.ipynb](https://github.com/BjarkeHautop/project-deep-learning/blob/main/Project_DL.ipynb). 
